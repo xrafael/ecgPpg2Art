@@ -1,5 +1,13 @@
 
 .ipynb_checkpoints/
 
-/**/.h5
-/**/.json
+*.h5
+*.json
+
+
+**/*.h5
+**/*.json
+
+/**/*.h5
+/**/*.json
+
